@@ -1,7 +1,6 @@
 main(){
   print("Hi ABIR");
   print("Hi BIR");
-  print("Hi IR");
 
 }
 
