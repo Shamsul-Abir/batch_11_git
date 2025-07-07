@@ -54,4 +54,5 @@ void main(List<String> arguments) {
     print('');
     printUsage(argParser);
   }
+  print("okay");
 }
